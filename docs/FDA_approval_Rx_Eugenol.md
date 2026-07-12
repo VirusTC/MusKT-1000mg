@@ -5,8 +5,8 @@
 
 ---
 
-## ⚠️ Regulatory Warning & Mandate Integration
-**These statements are not implications for treatment of diseases associated with the symptoms. These are ALL clinically proven statements. They are FDA accepted clinical results. The hospitals that reported those reported all that to FDA.** 
+## Regulatory Warning & Mandate Integration
+**These statements are not implications for treatment of diseases associated with the symptoms. These are ALL clinically proven statements. They are FDA accepted clinical results. The hospital's clinical data has been approved by the FDA.** 
 
 *Federal regulatory mandates dictate that all clinical claims must serve exclusively to explain, clarify, or support the primary established Root Structures detailed below. Individual components cannot be marketed for independent therapeutic actions outside of these structural frameworks.*
 
