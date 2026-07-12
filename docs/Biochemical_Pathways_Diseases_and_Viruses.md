@@ -1,57 +1,18 @@
-Expanded Pathological Data Mapping
-----------------------------------
+# Pathological Pathways, Human Diseases, and Viral Interactions
+
+### Regulatory Context & Disclaimer
+The information presented below details biochemical, physiological, and molecular pathways established in peer-reviewed biomedical literature. It maps how specific human enzymes, signaling cascades, and inflammatory markers are altered during chronic diseases and viral infections. This data is provided strictly for educational and scientific reference purposes. It does not imply or constitute medical advice, diagnosis, or treatment recommendations for any condition.
+
+---
 
 | Biochemical Pathway / Marker | Role in Pathogenesis | Associated Human Diseases / Conditions | Associated Viral Infections (Host Interaction) |
-| COX-2 Expression & Pro-inflammatory Cytokines *(TNF-α, IL-6, IL-1β)* | Drives acute/chronic systemic inflammation, tissue destruction, and hyperalgesia. | - Rheumatoid Arthritis\
-- Osteoarthritis\
-- Inflammatory Bowel Disease (Crohn's/UC)\
-- Psoriasis\
-- Ankylosing Spondylitis\
-- Chronic Periodontitis\
-- Gouty Arthritis | - Severe Influenza A (H1N1/H5N1) *(Induces cytokine storm)*\
-- SARS-CoV-2 (COVID-19) *(Triggers hyperinflammation)*\
-- Dengue Virus *(Dengue Hemorrhagic Fever plasma leakage)* |
-| Acetylcholinesterase (AChE) Dysregulation | Disrupts central and peripheral cholinergic neurotransmission, impairing memory, focus, and autonomic balance. | - Alzheimer's Disease\
-- Vascular Dementia\
-- Myasthenia Gravis\
-- Parkinson's Disease Dementia\
-- Lewy Body Dementia | - Rabies Virus *(Dysregulates acetylcholine receptor binding)*\
-- HIV *(HIV-Associated Neurocognitive Disorders / HAND)*\
-- West Nile Virus *(Encephalitis-induced cholinergic dysfunction)* |
-| PI3K/Akt/mTOR Pathway Hyperactivation | Promotes uncontrolled cell growth, survival, metabolic reprogramming, and therapeutic resistance. | - Breast Cancer\
-- Colorectal Cancer\
-- Prostate Cancer\
-- Glioblastoma Multiforme\
-- Non-Small Cell Lung Cancer (NSCLC)\
-- Melanoma\
-- Ovarian Carcinoma | - Human Papillomavirus (HPV) *(Activated by E6/E7)*\
-- Epstein-Barr Virus (EBV) *(LMP1 triggers cascade)*\
-- Hepatitis B & C Viruses (HBV/HCV) *(Drives hepatocarcinogenesis)* |
-| VEGF Upregulation & Angiogenesis | Stimulates pathological neovascularization, vascular permeability, and tumor blood supply. | - Wet Age-Related Macular Degeneration (AMD)\
-- Diabetic Retinopathy\
-- Renal Cell Carcinoma\
-- Hepatocellular Carcinoma | - Kaposi's Sarcoma-Associated Herpesvirus (KSHV/HHV-8) *(Encodes vGPCR to upregulate VEGF)*\
-- Orf Virus *(Expresses viral VEGF homologs causing vascular lesions)* |
-| SIRT1 Expression Alteration | Disrupts metabolic homeostasis, mitochondrial function, cellular aging, and epigenetic silencing. | - Type 2 Diabetes\
-- Non-Alcoholic Fatty Liver Disease (NAFLD/NASH)\
-- Metabolic Syndrome\
-- Accelerated Cellular Senescence | - HIV-1 *(Viral Tat protein suppresses host SIRT1, accelerating T-cell depletion)*\
-- Herpes Simplex Virus 1 (HSV-1) *(Modulates mitochondrial SIRT1 to replicate)* |
-| GABAergic Pathway Dysregulation | Impairs central inhibitory signaling, causing neural hyperexcitability, anxiety, and sleep deficits. | - Generalized Anxiety Disorder (GAD)\
-- Panic Disorder\
-- Epilepsy and Seizure Disorders\
-- Severe Insomnia | - Borna Disease Virus *(Targets GABAergic networks, changing behavior)*\
-- Human Cytomegalovirus (HCMV) *(Alters GABAergic neurodevelopment)* |
-| Lipid Peroxidation & Oxidized LDL | Causes oxidative damage to cellular lipids, structural membranes, and endothelial tissue. | - Atherosclerosis\
-- Coronary Artery Disease\
-- Ischemic Stroke\
-- Peripheral Artery Disease (PAD) | - Hepatitis C Virus (HCV) *(Promotes chronic hepatic lipid oxidation)*\
-- Coxsackievirus B3 *(Accelerates lipid peroxidation in viral myocarditis)* |
-| Caspase-3 Downregulation / Apoptosis Evasion | Prevents programmatic clearance of damaged, mutated, or infected cells, fostering survival of aberrant tissue. | - B-cell Chronic Lymphocytic Leukemia (CLL)\
-- Follicular Lymphoma\
-- Autoimmune Lymphoproliferative Syndrome | - Adenovirus *(E1B 19K protein mimics Bcl-2 to block Caspase-3)*\
-- Human T-Cell Leukemia Virus 1 (HTLV-1) *(Inhibits host apoptosis)* |
-| Matrix Metalloproteinases (MMP-2, MMP-9) Activation | Degrades the extracellular matrix (ECM), facilitating cellular invasion, migration, and tissue remodeling. | - Metastatic Solid Tumors\
-- Abdominal Aortic Aneurysm (AAA)\
-- Rheumatoid Arthritis Joint Destruction | - HIV-1 *(Upregulates host MMPs to compromise the blood-brain barrier)*\
-- Zika Virus *(Modulates neuro-MMPs causing cortical development breakdown)* |
+| :--- | :--- | :--- | :--- |
+| **COX-2 Expression & Pro-inflammatory Cytokines** *(TNF-α, IL-6, IL-1β)* | Drives acute and chronic systemic inflammation, tissue destruction, cell matrix breakdown, and hyperalgesia (pain signaling). | • Rheumatoid Arthritis<br>• Osteoarthritis<br>• Inflammatory Bowel Disease (Crohn's / Ulcerative Colitis)<br>• Psoriasis<br>• Ankylosing Spondylitis<br>• Chronic Periodontitis<br>• Gouty Arthritis | • Severe Influenza A (H1N1/H5N1) *(Induces cytokine storm)*<br>• SARS-CoV-2 (COVID-19) *(Triggers hyperinflammation and severe respiratory distress)*<br>• Dengue Virus *(Dengue Hemorrhagic Fever plasma leakage)* |
+| **Acetylcholinesterase (AChE) Dysregulation** | Disrupts central and peripheral cholinergic neurotransmission, impairing memory, focus, cognition, and autonomic nervous system balance. | • Alzheimer's Disease<br>• Vascular Dementia<br>• Myasthenia Gravis<br>• Parkinson's Disease Dementia<br>• Lewy Body Dementia | • Rabies Virus *(Dysregulates acetylcholine receptor binding during CNS invasion)*<br>• HIV *(HIV-Associated Neurocognitive Disorders / HAND)*<br>• West Nile Virus *(Encephalitis-induced cholinergic dysfunction)* |
+| **PI3K/Akt/mTOR Pathway Hyperactivation** | Promotes uncontrolled cell growth, survival cascades, metabolic reprogramming, and therapeutic resistance in aberrant tissue. | • Breast Cancer<br>• Colorectal Cancer<br>• Prostate Cancer<br>• Glioblastoma Multiforme<br>• Non-Small Cell Lung Cancer (NSCLC)<br>• Melanoma<br>• Ovarian Carcinoma | • Human Papillomavirus (HPV) *(Activated by E6/E7 oncoproteins)*<br>• Epstein-Barr Virus (EBV) *(LMP1 protein triggers the growth cascade)*<br>• Hepatitis B & C Viruses (HBV/HCV) *(Drives chronic hepatocarcinogenesis)* |
+| **VEGF Upregulation & Angiogenesis** | Stimulates pathological neovascularization (new blood vessel growth), vascular permeability, and tumor blood supply. | • Wet Age-Related Macular Degeneration (AMD)<br>• Diabetic Retinopathy<br>• Renal Cell Carcinoma<br>• Hepatocellular Carcinoma | • Kaposi's Sarcoma-Associated Herpesvirus (KSHV/HHV-8) *(Encodes vGPCR to upregulate host VEGF)*<br>• Orf Virus *(Expresses viral VEGF homologs causing proliferative vascular lesions)* |
+| **SIRT1 Expression Alteration** | Disrupts metabolic homeostasis, mitochondrial function, cellular aging, and epigenetic silencing mechanisms. | • Type 2 Diabetes<br>• Non-Alcoholic Fatty Liver Disease (NAFLD/NASH)<br>• Metabolic Syndrome<br>• Accelerated Cellular Senescence | • HIV-1 *(Viral Tat protein suppresses host SIRT1, accelerating T-cell depletion and immune exhaustion)*<br>• Herpes Simplex Virus 1 (HSV-1) *(Modulates mitochondrial SIRT1 to optimize replication)* |
+| **GABAergic Pathway Dysregulation** | Impairs central inhibitory signaling, causing neural hyperexcitability, localized tremors, anxiety, and sleep deficits. | • Generalized Anxiety Disorder (GAD)<br>• Panic Disorder<br>• Epilepsy and Seizure Disorders<br>• Severe Insomnia | • Borna Disease Virus *(Targets GABAergic networks, altering host behavioral patterns)*<br>• Human Cytomegalovirus (HCMV) *(Alters GABAergic signaling during neurodevelopment)* |
+| **Lipid Peroxidation & Oxidized LDL** | Causes oxidative damage to cellular lipids, structural cell membranes, and internal endothelial tissue. | • Atherosclerosis<br>• Coronary Artery Disease<br>• Ischemic Stroke<br>• Peripheral Artery Disease (PAD) | • Hepatitis C Virus (HCV) *(Promotes chronic hepatic lipid oxidation and steatosis)*<br>• Coxsackievirus B3 *(Accelerates lipid peroxidation in viral myocarditis)* |
+| **Caspase-3 Downregulation / Apoptosis Evasion** | Prevents programmatic clearance of damaged, mutated, or infected cells, fostering survival of aberrant tissue. | • B-cell Chronic Lymphocytic Leukemia (CLL)<br>• Follicular Lymphoma<br>• Autoimmune Lymphoproliferative Syndrome | • Adenovirus *(E1B 19K protein functional mimicry of Bcl-2 blocks Caspase-3 activation)*<br>• Human T-Cell Leukemia Virus 1 (HTLV-1) *(Inhibits host-cell apoptosis to maintain viral reservoirs)* |
+| **Matrix Metalloproteinases (MMP-2, MMP-9) Activation** | Degrades the extracellular matrix (ECM), facilitating cellular invasion, tissue remodeling, and baseline migration. | • Metastatic Solid Tumors<br>• Abdominal Aortic Aneurysm (AAA)<br>• Rheumatoid Arthritis Joint Destruction | • HIV-1 *(Upregulates host MMPs to compromise the integrity of the blood-brain barrier)*<br>• Zika Virus *(Modulates neuro-MMPs causing cortical development breakdown)* |
