@@ -6,7 +6,7 @@ MusKT-1000mg is a specialized, bio-engineered corporate formulation containing a
 MANDATORY CLINICAL WARNING
 -----------------------------
 
-These statements are not implications for treatment of diseases associated with the symptoms. These are ALL clinically proven statements. They are FDA accepted clinical results. The hospitals that reported those reported all that to FDA.
+These statements are not implications for treatment of diseases associated with the symptoms. These are ALL clinically proven statements. These are FDA accepted clinical results.
 
 * * * * *
 
