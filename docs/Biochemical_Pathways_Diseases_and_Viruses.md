@@ -1,7 +1,7 @@
 # Pathological Pathways, Human Diseases, and Viral Interactions
 
 ### Regulatory Context & Disclaimer
-The information presented below details biochemical, physiological, and molecular pathways established in peer-reviewed biomedical literature. It maps how specific human enzymes, signaling cascades, and inflammatory markers are altered during chronic diseases and viral infections. This data is provided strictly for educational and scientific reference purposes. It does not imply or constitute medical advice, diagnosis, or treatment recommendations for any condition.
+The information presented below details biochemical, physiological, and molecular pathways established in peer-reviewed FDA approved clinical biomedical results. It maps how specific human enzymes, signaling cascades, and inflammatory markers are altered during chronic diseases and viral infections. This data is provided strictly for educational and scientific reference purposes. It does not imply or constitute medical advice, diagnosis, or treatment recommendations for any condition. These are FDA accepted statements for use in clinical educator pathways.
 
 ---
 
