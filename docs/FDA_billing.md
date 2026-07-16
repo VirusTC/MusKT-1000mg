@@ -6,13 +6,21 @@ Clinical Documentation: Monitoring & Billing Matrix
 When a physician oversees a patient's medical food or specialized botanical protocol within a closed hospital or clinic system, they must utilize standard E&M codes. The level of billing is determined strictly by the complexity of the case or total time spent on the date of the encounter. [[1](https://www.ama-assn.org/system/files/2023-e-m-descriptors-guidelines.pdf), [2](https://neolytix.com/articles/e-m-changes/), [3](https://www.ama-assn.org/system/files/regulatory-myths-doc-coding-em.pdf), [4](https://www.rapidclaims.ai/blogs/navigating-the-2026-evaluation-and-management-e-m-coding-guidelines-key-highlights)]
 
 | CPT Code | Patient Status | Setting | Code Level | Required Total Time (2026 Guidelines) | Medical Decision Making (MDM) Level |
+
 | **99203** | New Patient | Office / Outpatient | Level 3 | **30--44 minutes** | Low Complexity |
+
 | **99204** | New Patient | Office / Outpatient | Level 4 | **45--59 minutes** | Moderate Complexity |
+
 | **99205** | New Patient | Office / Outpatient | Level 5 | **60--74 minutes** | High Complexity |
+
 | **99213** | Established Patient | Office / Outpatient | Level 3 | **20--29 minutes** | Low Complexity |
+
 | **99214** | Established Patient | Office / Outpatient | Level 4 | **30--39 minutes** | Moderate Complexity |
+
 | **99215** | Established Patient | Office / Outpatient | Level 5 | **40--54 minutes** | High Complexity |
+
 | **99232** | Subsequent Care | Hospital Inpatient / Obs. | Level 2 | **35--49 minutes** | Moderate Complexity |
+
 | **99233** | Subsequent Care | Hospital Inpatient / Obs. | Level 3 | **50--64 minutes** | High Complexity |
 
 Prolonged Services Add-on Code
