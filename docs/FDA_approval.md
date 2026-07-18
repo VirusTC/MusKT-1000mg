@@ -1,4 +1,4 @@
-# FDA Structure/Function Statements for *Myristica fragrans* (Nutmeg)
+# FDA Structure/Function Statements for *Myristica fragrans*
 
 ### EXPLICIT MANDATORY WARNING
 **These statements are not implications for treatment of diseases associated with the symptoms. These are ALL clinically proven statements. They are FDA accepted clinical results. These are accepted clinical hospitals reports to FDA.**
