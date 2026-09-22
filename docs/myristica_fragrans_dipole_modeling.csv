@@ -1,0 +1,4 @@
+Structure_Name,Chemical_Formula,Molecular_Weight_g_mol,Dipole_Vector_X_Debye,Dipole_Vector_Y_Debye,Dipole_Vector_Z_Debye,Net_Dipole_Moment_Debye,Polarizability_alpha_xx_A3,Polarizability_alpha_yy_A3,Polarizability_alpha_zz_A3,Polarizability_alpha_avg_A3,Max_Spatial_Field_Length_Angstroms
+Myristicin,C11H12O3,192.21,1.12,-0.64,0.35,1.34,21.4,19.8,15.3,18.83,7.8
+Macelignan,C20H24O4,328.4,0.45,1.38,-0.89,1.7,38.6,34.2,29.1,33.97,14.2
+Eugenol USP,C10H12O2,164.2,-0.85,1.42,-0.21,1.67,18.2,16.5,12.8,15.83,6.9
